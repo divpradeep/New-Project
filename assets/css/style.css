@@ -1,3 +1,11 @@
-h1{
-  color: red;
+header{
+  background:rgba(0,0,0,0.45);
+  position:absolute;
+  left: 0;
+  right: 0;
+  z-index:2;
+  top: 0;
+}
+.top{
+  
 }
